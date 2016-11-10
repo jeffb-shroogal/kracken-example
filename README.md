@@ -1,4 +1,4 @@
 # kracken-example
 
 
-testing CodeShip Slack Integration
+testing CodeShip Github Integration
